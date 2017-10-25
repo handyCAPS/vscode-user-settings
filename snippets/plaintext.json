@@ -1,0 +1,9 @@
+{
+	"import": {
+		"prefix": "imp",
+		"body": [
+			"import { Input, InputOption } from '../../types/input.type';"
+		],
+		"description": ""
+	}
+}

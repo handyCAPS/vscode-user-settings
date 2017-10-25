@@ -1,0 +1,19 @@
+{
+	"Import from": {
+		"prefix": "imp",
+		"body": [
+			"import { $1 } from '$0';",
+			"$2"
+		],
+		"description": "Import from"
+	},
+	"componentdidmount": {
+		"prefix": "did",
+		"body": [
+			"componentDidMount() {",
+			"\\t\\t",
+			"\\t}"
+		],
+		"description": "React life cycle componentDidMount"
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "autoprefixer.findExternalAutoprefixer": true,
+  "workbench.colorTheme": "Monokai",
+  "editor.fontFamily": "Source Code Pro, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": { "javascript": "jsx" },
+  "editor.renderLineHighlight": "gutter",
+  "editor.wordWrap": "on",
+  "emmet.triggerExpansionOnTab": true,
+  "flow.useNPMPackagedFlow": true,
+  "git.enableSmartCommit": true,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false
+}
